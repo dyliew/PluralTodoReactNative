@@ -1,0 +1,24 @@
+{
+  "name": "PluralTodo",
+  "version": "0.0.0",
+  "description": "Hello Exponent!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "exp": {
+    "sdkVersion": "4.0.0"
+  },
+  "dependencies": {
+    "react-native": "github:exponentjs/react-native#2016-01-02"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.0.2",
+    "eslint": "^2.7.0",
+    "eslint-plugin-react": "^4.3.0",
+    "gulp": "^3.9.1",
+    "ts-node": "^0.7.1",
+    "tslint": "^3.7.1",
+    "typescript": "^1.8.9",
+    "typings": "^0.7.12"
+  }
+}
