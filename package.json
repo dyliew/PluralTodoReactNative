@@ -15,10 +15,6 @@
     "babel-eslint": "^6.0.2",
     "eslint": "^2.7.0",
     "eslint-plugin-react": "^4.3.0",
-    "gulp": "^3.9.1",
-    "ts-node": "^0.7.1",
-    "tslint": "^3.7.1",
-    "typescript": "^1.8.9",
-    "typings": "^0.7.12"
+    "gulp": "^3.9.1"
   }
 }
